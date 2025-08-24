@@ -5,7 +5,7 @@
 - https://code.visualstudio.com/download
 ##### Install git cli
 - https://git-scm.com/downloads
-- gh -- version (type from your command line to see if it is installed correctly)
+- gh --version (type from your command line to see if it is installed correctly)
 ##### Create github account
 - https://www.github.com
 ##### Import your first git repository
